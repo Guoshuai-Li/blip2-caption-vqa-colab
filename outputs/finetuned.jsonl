@@ -1,1 +1,10 @@
-
+{"image_path": "baseline_images/pic_01.jpg", "caption": "a steak and vegetables on a white plate", "question": "What is on top of the steak?", "answer": "Broccoli"}
+{"image_path": "baseline_images/pic_02.jpg", "caption": "a piece of meat and vegetables on a plate", "question": "What is the pork chop topped with?", "answer": "Broccoli"}
+{"image_path": "baseline_images/pic_03.jpg", "caption": "pasta on a fork", "question": "What is wrapped around the fork?", "answer": "Pasta"}
+{"image_path": "baseline_images/pic_04.jpg", "caption": "a bowl of food with vegetables and meat", "question": "What protein is included in the salad?", "answer": "Chicken"}
+{"image_path": "baseline_images/pic_05.jpg", "caption": "close-up of person pouring sauce on tacos", "question": "What ingredient is being squeezed over the tacos?", "answer": "Cilantro"}
+{"image_path": "baseline_images/pic_06.jpg", "caption": "a bowl of tomatoes on a table", "question": "What fruit is in the bowl?", "answer": "Tomatoes"}
+{"image_path": "baseline_images/pic_07.jpg", "caption": "a plate of meatballs and greens on a table", "question": "What are the meatballs served on?", "answer": "Vegetables"}
+{"image_path": "baseline_images/pic_08.jpg", "caption": "various fruits and vegetables are arranged in a circle", "question": "What is on the plate in the center?", "answer": "fruits and vegetables"}
+{"image_path": "baseline_images/pic_09.jpg", "caption": "lemon on white background", "question": "What fruit is shown in the image?", "answer": "Lemons"}
+{"image_path": "baseline_images/pic_10.jpg", "caption": "pancakes on white plates with orange slices", "question": "What fruit is on top of the crepes?", "answer": "Orange"}
