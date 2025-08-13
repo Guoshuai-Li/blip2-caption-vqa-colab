@@ -1,1 +1,7 @@
-
+transformers==4.55.2
+torch==2.6.0+cu124
+bitsandbytes==0.47.0
+peft==0.17.0
+datasets==4.0.0
+gradio==5.42.0
+pillow==11.3.0
