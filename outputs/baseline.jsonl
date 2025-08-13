@@ -1,10 +1,10 @@
-{"image_path":"baseline_images/pic_01.jpg","caption":"a pizza with pineapple, onions and cilantro","question":"What is in the image?","answer":"A Hawaiian pizza with pineapple, bacon, and cilantro"}
-{"image_path":"baseline_images/pic_02.jpg","caption":"a toy mario standing on a wooden floor","question":"What is in the image?","answer":"A mario figurine"}
-{"image_path":"baseline_images/pic_03.jpg","caption":"the blue mosque in istanbul, turkey","question":"What is in the image?","answer":"Blue Mosque, Istanbul, Turkey"}
-{"image_path":"baseline_images/pic_04.jpg","caption":"kuala lumpur petronas twin towers at night","question":"What is in the image?","answer":"The Petronas Twin Towers in Kuala Lumpur, Malaysia"}
-{"image_path":"baseline_images/pic_05.jpg","caption":"a deer stands in a field with other deer","question":"What is in the image?","answer":"A buck deer in a field"}
-{"image_path":"baseline_images/pic_06.jpg","caption":"a dart board with a target on it","question":"What is in the image?","answer":"A dart board with a target on it"}
-{"image_path":"baseline_images/pic_07.jpg","caption":"a desert with sand dunes and rocks","question":"What is in the image?","answer":"The desert"}
-{"image_path":"baseline_images/pic_08.jpg","caption":"two people in a boat on a lake in the mountains","question":"What is in the image?","answer":"The lake of the dolomites, italy"}
-{"image_path":"baseline_images/pic_09.jpg","caption":"a red fox stands on a snowy hillside","question":"What is in the image?","answer":"A red fox"}
-{"image_path":"baseline_images/pic_10.jpg","caption":"a variety of meat and vegetables on a wooden table","question":"What is in the image?","answer":"A variety of meat and vegetables on a wooden board"}
+{"image_path":"baseline_images/pic_01.jpg","caption":"a steak on a white plate with broccoli and a side of sauce","question":"What is on top of the steak?","answer":"Broccoli and a side of grilled asparagus"}
+{"image_path":"baseline_images/pic_02.jpg","caption":"a plate of food with meat and vegetables on it","question":"What is the pork chop topped with?","answer":"Broccoli and potatoes"}
+{"image_path":"baseline_images/pic_03.jpg","caption":"a fork with pasta on it","question":"What is wrapped around the fork?","answer":"pasta"}
+{"image_path":"baseline_images/pic_04.jpg","caption":"a bowl of salad with chicken, corn and vegetables","question":"What protein is included in the salad?","answer":"Protein is a group of amino acids that are essential for the body to function properly."}
+{"image_path":"baseline_images/pic_05.jpg","caption":"a person is pouring lime juice over tacos","question":"What ingredient is being squeezed over the tacos?","answer":"lime juice"}
+{"image_path":"baseline_images/pic_06.jpg","caption":"a bowl of tomatoes sitting on a table","question":"What fruit is in the bowl?","answer":"tomatoes"}
+{"image_path":"baseline_images/pic_07.jpg","caption":"a plate of meatballs and greens on a table","question":"What are the meatballs served on?","answer":"Meatballs served on a plate with a fork"}
+{"image_path":"baseline_images/pic_08.jpg","caption":"a variety of fruits and vegetables are arranged on a table","question":"What is on the plate in the center?","answer":"A variety of fruits and vegetables"}
+{"image_path":"baseline_images/pic_09.jpg","caption":"a bunch of lemons on a white surface","question":"What fruit is shown in the image?","answer":"Lemons"}
+{"image_path":"baseline_images/pic_10.jpg","caption":"a plate of pancakes with whipped cream and orange slices","question":"What fruit is on top of the crepes?","answer":"orange"}
